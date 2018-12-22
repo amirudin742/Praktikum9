@@ -92,3 +92,7 @@ int main()
 3.Berikut adalah flowchartnya
 
 ![img](https://raw.githubusercontent.com/amirudin742/Praktikum9/master/Flowchart1.png)
+
+4.Berikut adalah hasilnya
+
+![img](https://raw.githubusercontent.com/amirudin742/Praktikum9/master/Hasil1.png)
