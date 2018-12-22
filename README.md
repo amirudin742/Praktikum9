@@ -212,3 +212,7 @@ int main()
         }
     }
 }```
+
+3.Berikut adalah hasilnya
+
+![img](https://raw.githubusercontent.com/amirudin742/Praktikum9/master/Hasil2.png)
