@@ -210,9 +210,9 @@ int main()
         {
             cout<<mod[c]<< "";
         }
-    }
-}```
+    }```
+}
 
-#3.Berikut adalah hasilnya
+3.Berikut adalah hasilnya
 
 ![img](https://raw.githubusercontent.com/amirudin742/Praktikum9/master/Hasil2.png)
