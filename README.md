@@ -480,9 +480,13 @@ else
 Latihan4#Trasnpose Matriks
 
 1.Alur Algoritmanya
+	
 	-Mendeklarasikan int A sebagi variabel array
+
 	-Mendeklarasikan int a,b,baris,kolo sebagai variabel inputan
+
 	-mendeklrasikan cahr pil untuk pilihan mengulang
+
 2.Berikut Kode lengkapnya
 
 #include <iostream>
@@ -537,4 +541,7 @@ int main()
     }
     while(pil=='Y'||pil=='y');
 }
+
 3.Berikut Hasilnya 
+
+![img](https://raw.githubusercontent.com/amirudin742/Praktikum9/master/Hasil4.png)
