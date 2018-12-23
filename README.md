@@ -282,9 +282,9 @@ int main()
         for(int c=0;c<x;c++)
         {
             cout<<mod[c]<< "";
-        }
+        }````
     }
-}````
+}
 
 3.Berikut adalah hasilnya
 
