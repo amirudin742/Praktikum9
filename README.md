@@ -210,7 +210,7 @@ int main()
         {
             cout<<mod[c]<< "";
         }
-    }```
+    }
 }
 
 3.Berikut adalah hasilnya
