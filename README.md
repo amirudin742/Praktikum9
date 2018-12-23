@@ -291,7 +291,7 @@ int main()
 ![img](https://raw.githubusercontent.com/amirudin742/Praktikum9/master/Hasil2.png)
 
 
-Latihan3#Perkalian Matriks
+```Latihan3#Perkalian Matriks
 
 1.Alur Algoritmanya
 	-Mendeklarasikan int a1,b1,temp sebagai variabel untuk mengambil baris dan kolom
@@ -391,7 +391,7 @@ else
         goto ulang;
     }
 }
-}
+}```
 
 3.Berikut Hasilnya 
 
