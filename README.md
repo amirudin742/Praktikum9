@@ -112,7 +112,7 @@ Latihan2#Menentukan nilai Modus 1.Alur Algoritmanya
 
 2.Berikut kode lengkaapnya
 
-````#include <iostream>
+#include <iostream>
 
 using namespace std;
 
@@ -282,7 +282,7 @@ int main()
         for(int c=0;c<x;c++)
         {
             cout<<mod[c]<< "";
-        }````
+        }
     }
 }
 
